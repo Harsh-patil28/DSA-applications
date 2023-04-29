@@ -1,2 +1,2 @@
-# DSA-applications
-This repository is about codes for DSA applications.
+# DSA-Codes
+This repository is about codes for DSA.
